@@ -1,0 +1,26 @@
+{
+  "name": "root",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/componify/componify.git"
+  },
+  "scripts": {
+    "test": "turbo test",
+    "start": "turbo start",
+    "build": "turbo build",
+    "publish": "turbo publish"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "pnpm@9.3.0",
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.3",
+    "@types/node": "^20.14.10",
+    "turbo": "^2.0.6",
+    "typescript": "^5.5.3"
+  }
+}
