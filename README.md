@@ -2,11 +2,11 @@
 > WIP 🚧 - This is in work in progress, please don't use it in production.
 
 # Componify
-A Component Library with Tailwind CSS Compatible for all your favorite web frameworks. 
+A Component Library Compatible for all your favorite web frameworks. 
 
 ## Features
 - 📦 All the components you need for your project
-- 💅 Use the best css tools for your project AKA Tailwind CSS.
+- 💅 Use the best css tools for your project AKA Tailwind CSS or Just CSS.
 - 📦 Easy to use, customize and extend.
 
 
