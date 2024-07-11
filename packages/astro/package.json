@@ -1,15 +1,16 @@
 {
   "name": "@componify/astro",
   "version": "0.0.1",
-  "description": "A Component Library with Tailwind CSS Compatible for all your favorite web frameworks. ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "A Component Library for your favorite web framework Astro.",
+  "author": "componify",
   "exports": {
     ".": "./index.ts"
   },
-  "keywords": [],
-  "author": "",
+  "dependencies": {
+    "@componify/core": "latest"
+  },
+  "devDependencies": {
+    "typescript": "5.5.3"
+  },
   "license": "ISC"
 }

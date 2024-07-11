@@ -1,0 +1,1 @@
+export {deafult as Button} from "./src/Button.astro";
