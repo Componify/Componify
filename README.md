@@ -1,5 +1,5 @@
 > [!NOTE]
-> WIP 🚧 - This is in work in progress, please don't use it in production.
+> WIP 🚧 - This is in work in progress, please don't use it in production yet.
 
 # Componify
 A Component Library Compatible for all your favorite web frameworks. 
