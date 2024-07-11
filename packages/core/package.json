@@ -1,7 +1,7 @@
 {
   "name": "componify",
   "version": "0.0.1",
-  "description": "A Component Library that doesn't require files to work just install a library!",
+  "description": "Provides Utils for Componify. Please use the selection of component librarys on our website.",
   "type": "module",
   "author": "Eveeifyeve",
   "license": "BSD-3-Clause",
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "clsx": "^2.1.1",
-    "tailwind": "^4.0.0"
+    "tailwind-merge": "^2.4.0"
   },
   "devDependencies": {
     "tsc": "^2.0.4"
