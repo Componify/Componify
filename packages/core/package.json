@@ -1,9 +1,9 @@
 {
-  "name": "componify",
+  "name": "@componify/core",
   "version": "0.0.1",
-  "description": "Provides Utils for Componify. Please use the selection of component librarys on our website.",
+  "description": "A Component Library with Tailwind CSS Compatible for all your favorite web frameworks.",
   "type": "module",
-  "author": "Eveeifyeve",
+  "author": "componify",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
@@ -23,6 +23,6 @@
     "tailwind-merge": "^2.4.0"
   },
   "devDependencies": {
-    "tsc": "^2.0.4"
+    "typescript": "^5.5.3"
   }
 }
