@@ -1,14 +1,13 @@
+import { twMerge } from "tailwind-merge"
 
-
-export const buttonClasses = 
-
-
-interface ButtonProps {}
-
-export function button() {
-    const array: string[] = [];
-
-    array.push
-
-    return array.join(" ")
+const buttonDeafultClass = ""
+const buttonVariantClasses = {
+    default: buttonDeafultClass,
+    outline: twMerge(buttonDeafultClass, ""),
+    ghost: twMerge(buttonDeafultClass, ""),
+    link: twMerge(buttonDeafultClass, ""),
 }
+
+
+
+export { buttonVariantClasses }
