@@ -1,6 +1,6 @@
 {
   "name": "@componify/core",
-  "version": "0.0.1",
+  "version": "0.0.1-beta.0",
   "description": "A Component Library with Tailwind CSS Compatible for all your favorite web frameworks.",
   "type": "module",
   "author": "componify",
@@ -13,7 +13,8 @@
   "bugs": "https://github.com/componify/componify/issues",
   "homepage": "https://componify.github.io",
   "exports": {
-    "./utils": "./src/utils"
+    "./tailwind": "./src/tailwind/index.ts",
+    "./utils": "./src/utils.ts"
   },
   "scripts": {
     "build": "tsc"
