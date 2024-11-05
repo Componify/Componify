@@ -6,7 +6,7 @@ A Component Library Compatible for all your favorite web frameworks.
 
 ## Features
 - 📦 All the components you need for your project
-- 💅 Use the best css tools for your project AKA Tailwind CSS or Just CSS.
+- 💅 Use the best css tools for your project AKA Tailwind CSS.
 - 📦 Easy to use, customize and extend.
 
 
